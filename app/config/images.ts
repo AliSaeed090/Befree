@@ -1,0 +1,52 @@
+/**
+ * Images Defines
+ * @author Passion UI <passionui.com>
+ */
+
+export const Images = {
+  welcome: require('../assets/images/welcome.png'),
+  logo: require('../assets/images/logo3.png'),
+  logo2: require('../assets/images/logo3.png'),
+  onboarding: require('../assets/images/onboarding.png'),
+  purple: require('../assets/images/purple-0.png'),
+  ruler:require('../assets/images/ruler.png'),
+  emotion:require('../assets/images/emotion.png'),
+  emotion1:require('../assets/images/emotion1.png'),
+  emotion2:require('../assets/images/emotion2.png'),
+  brain:require('../assets/images/brain.png'),
+  profilePic:require('../assets/images/profilePic.png'),
+  dashbaord:require('../assets/images/dashbaord.png'),
+  doctorPic:require('../assets/images/doctorPic.png'),
+  doctorBanner:require('../assets/images/doctorBanner.png'),
+  male:require('../assets/images/male.png'),
+  female:require('../assets/images/female.png'),
+   other:require('../assets/images/other.png'),
+  v1:require('../assets/images/v1.mp4'),
+  v2:require('../assets/images/v2.mp4'),
+  v3:require('../assets/images/v3.mp4'),
+  v4:require('../assets/images/v4.mp4'),
+  v5:require('../assets/images/v5.mp4'),
+  v0:require('../assets/images/v0.mp4'),
+  happy_blue:require('../assets/images/happy_blue.png'),
+  happy_gray:require('../assets/images/happy_gray.png'),
+  depressed_blue:require('../assets/images/depressed_blue.png'),
+  depressed_gray:require('../assets/images/depressed_gray.png'),
+  sad_blue:require('../assets/images/sad_blue.png'),
+  sad_gray:require('../assets/images/sad_gray.png'),
+  overjoyed_blue:require('../assets/images/overjoyed_blue.png'),
+  overjoyed_gray:require('../assets/images/overjoyed_gray.png'),
+  nuetral_blue:require('../assets/images/nuetral_blue.png'),
+  nuetral_gray:require('../assets/images/nuetral_gray.png'),
+  dr1:require('../assets/images/dr1.png'),
+  x6:require('../assets/images/x6.png'),
+  // stress:require('../assets/images/stress.jpg'),
+  splash:require('../assets/images/splash.png'),
+  DashbaordF:require('../assets/images/DashbaordF.jpeg'),
+  DashbaordM:require('../assets/images/DashbaordM.jpeg'),
+  suicideRisk:require('../assets/images/suicideRisk.png'),
+  anxity:require('../assets/images/anxity.jpg'),
+  depression:require('../assets/images/depression.jpg'),
+  stress:require('../assets/images/stress.png'),
+  BLogo:require('../assets/images/BLogo.png')
+
+};

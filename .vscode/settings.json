@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "app/screens/HealthAssessment"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.watcherExclude": {
+  "**/node_modules/**": true,
+  "**/dist/**": true,
+  "**/.git/**": true
+},
+"editor.cursorBlinking": "solid",
+"editor.smoothScrolling": false,
+"editor.renderWhitespace": "none",
+"editor.minimap.enabled": false,
+"editor.codeLens": false
+}

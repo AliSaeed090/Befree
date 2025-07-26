@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1001591893271",
+    "project_id": "befree-fab3e",
+    "storage_bucket": "befree-fab3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001591893271:android:6aa464de87b0c9fed9db52",
+        "android_client_info": {
+          "package_name": "com.reactnativebefreee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001591893271-fhvva2e77e4852k1rvvo7tlfufdpv430.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativebefreee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1001591893271-sg6c4esrlm2bnmah126e4ll5rkbgquq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6h_L23ghkrxpWAwm6FJp2Rg8WRp2MLYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001591893271-alf3l7rd66g61d8ilkvg13ijvm99n3pd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001591893271-6bsg1e3kmk4edisafp1bqt2fl66oiglg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Befree"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
